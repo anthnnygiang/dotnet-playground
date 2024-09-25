@@ -16,8 +16,4 @@ while (enr.MoveNext())
     Console.WriteLine(enr.Current);
 }
 
-if (true)
-{
-}
-
 enr.Dispose();
