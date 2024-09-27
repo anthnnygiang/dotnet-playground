@@ -1,6 +1,6 @@
 # Playground
 
-.editorconfig file
+`.editorconfig` file:
 The word after the semicolon is the severity level of the rule.
 The levels are:
 
